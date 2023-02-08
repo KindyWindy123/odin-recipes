@@ -1,0 +1,32 @@
+*{
+    background-color: black;
+    color: white;
+    font-family: Gabriola, sans-serif;
+    font-size: 25px
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+}
+img{
+    alignment: center;
+    width: 800px;
+    height: auto;
+}
+#history{
+    font-size: 45px;
+}
+h3{
+    font-size: 35px;
+}
+.turn-page{
+    text-align: left;
+}
+dt{
+    font-size: 25px;
+}
+#dough{
+    alignment: center;
+    width: 500px;
+    height: auto;
+}
